@@ -16,14 +16,12 @@ url                      : "xx.netlify.app" # the base hostname & protocol for y
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "#"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
-  avatar           : "#"
-  name             : "Dr Rafia afroz"
-  pronouns         : "Professor/ Researcher/Econometrician"  
+  avatar           : "#"  # Provide a path to an image or comment out if not used
+  name             : "Dr. Rafia Afroz"
+  pronouns         : "She/Her"
   bio              : "Short biography for the left-hand sidebar"  # Fill in or comment out
   location         : "Gombak, MY"
   employer         : "IIUM"
@@ -31,47 +29,47 @@ author:
   email            : "rafia_afroz@yahoo.com"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "#" # Provide a URL or comment out if not used
   googlescholar    : "https://iium.academia.edu/RafiaAfroz"
-  impactstory      : # URL
-  orcid            : # "https://orcid.org/0000-0002-7730-784X"
-  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Ariffin+AN&cauthor_id=36292363"
-  researchgate     : # "https://www.researchgate.net/profile/Ahmad-Ariffin-11"
+  impactstory      : "#" # Provide a URL or comment out if not used
+  orcid            : "#" # Provide a URL or comment out if not used
+  pubmed           : "#" # Provide a URL or comment out if not used
+  researchgate     : "#" # Provide a URL or comment out if not used
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # "booluckgmie"
-  github           : # "booluckgmie"
-  kaggle           : # "najmiariffin"  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-  profilerank      : # "booluckgmie"    
+  bitbucket        : "#" # Provide a username or comment out if not used
+  codepen          : "#" # Provide a username or comment out if not used
+  dribbble         : "#" # Provide a username or comment out if not used
+  github           : "#" # Provide a username or comment out if not used
+  kaggle           : "#" # Provide a username or comment out if not used
+  stackoverflow    : "#" # Provide a username or comment out if not used
+  profilerank      : "#" # Provide a username or comment out if not used
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  bluesky          : "#" # Provide a username or comment out if not used
+  facebook         : "#" # Provide a username or comment out if not used
+  flickr           : "#" # Provide a username or comment out if not used
+  foursquare       : "#" # Provide a username or comment out if not used
+  goodreads        : "#" # Provide a username or comment out if not used
+  google_plus      : "#" # Provide a username or comment out if not used
+  keybase          : "#" # Provide a username or comment out if not used
+  instagram        : "#" # Provide a username or comment out if not used
+  lastfm           : "#" # Provide a username or comment out if not used
   linkedin         : "dr-rafia-afroz-6aa7b440"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : #"najmi_ariffin"  # Replace this with your X / Twitter handle
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
+  mastodon         : "#" # Provide a URL or comment out if not used
+  medium           : "#" # Provide a URL or comment out if not used
+  pinterest        : "#" # Provide a username or comment out if not used
+  soundcloud       : "#" # Provide a username or comment out if not used
+  steam            : "#" # Provide a username or comment out if not used
+  telegram         : "#" # Provide a URL or comment out if not used
+  tumblr           : "#" # Provide a username or comment out if not used
+  twitter          : "#" # Provide a username or comment out if not used
+  vine             : "#" # Provide a username or comment out if not used
+  weibo            : "#" # Provide a username or comment out if not used
+  wikipedia        : "#" # Provide a username or comment out if not used
+  xing             : "#" # Provide a username or comment out if not used
+  youtube          : "#" # Provide a username or comment out if not used
+  zhihu            : "#" # Provide a URL or comment out if not used
 
 
 # Site Settings
