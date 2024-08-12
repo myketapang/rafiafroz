@@ -19,10 +19,10 @@ repository               : "#"
 # Site Author
 author:
   # Biographic information
-  avatar           : "#"  # Provide a path to an image or comment out if not used
+  avatar           : "https://media.licdn.com/dms/image/v2/D5635AQEa2X23MknO5w/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1723307302034?e=1724079600&v=beta&t=FWPyEVHifGnAAt8onw9YHplV5g1Re5dKv8-bN7g4iL0"  # Provide a path to an image or comment out if not used
   name             : "Dr. Rafia Afroz"
   pronouns         : "She/Her"
-  bio              : "Short biography for the left-hand sidebar"  # Fill in or comment out
+  bio              : # "Short biography for the left-hand sidebar"  # Fill in or comment out
   location         : "Gombak, MY"
   employer         : "IIUM"
   uri              : "#" # Provide a URL or comment out if not used
@@ -137,7 +137,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : "G-CG78HZB2F3"
+    tracking_id          : ""
 
 
 # Reading Files
