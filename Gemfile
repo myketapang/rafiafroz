@@ -11,11 +11,10 @@ source "https://rubygems.org"
 ruby '3.0.0'
 gem "github-pages", group: :jekyll_plugins
 gem 'nokogiri', '~> 1.11.0'
+gem "jekyll", "~> 4.3.0"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
-
-# gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
