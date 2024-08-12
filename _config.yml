@@ -24,11 +24,11 @@ author:
   avatar           : "#"
   name             : "Dr Rafia afroz"
   pronouns         : "Professor/ Researcher/Econometrician"  
-  bio              : # "Short biography for the left-hand .sidebar"
+  bio              : "Short biography for the left-hand sidebar"  # Fill in or comment out
   location         : "Gombak, MY"
   employer         : "IIUM"
-  uri              : # URL
-  email            : "rafia_afroz@yahoo.com" 
+  uri              : "#" # Provide a URL or comment out if not used
+  email            : "rafia_afroz@yahoo.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
