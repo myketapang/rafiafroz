@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ahmad Najmi bin Ariffin"
+title: "Professor Rafia Afroz"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
