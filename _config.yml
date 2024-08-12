@@ -12,7 +12,7 @@ title                    : "Prof. Rafia Afroz / Senior Lecturer"
 title_separator          : "-"
 name                     : &name "Prof. Rafia Afroz"
 description              : &description "Professor/ Researcher/Econometrician"
-url                      : "xx.netlify.app" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "rafiafrozv3.netlify.app" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "#"
 
